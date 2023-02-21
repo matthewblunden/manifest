@@ -1,0 +1,19 @@
+{
+  "name": “Storyverse”,
+  "short_name": “Storyverse”,
+  "icons": [
+    {
+      "src": "https://uploads-ssl.webflow.com/63b5ad5e24f0ccd31cd4a09b/63f5289bc0351af683c25349_Logo%20Larger%20Proportions.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://uploads-ssl.webflow.com/63b5ad5e24f0ccd31cd4a09b/63f5289bff000c7a4fa6bead_Logo%20Larger%20Proportions%202.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": “storyverse.ai/flow-story,
+  "display": "standalone",
+  "orientation": "portrait"
+}
